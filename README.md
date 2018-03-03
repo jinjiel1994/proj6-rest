@@ -2,7 +2,13 @@
 
 Simple listing service from project 5 stored in MongoDB database.
 
-## consumer programs is at:
+**Author: Jim Li**
+
+**Contact Address: jinjiel@uoregon.edu**
+
+## Description: 
+
+Run the following address on browser after docker-comopse up:
 
 ~~~
    http:0.0.0.0:5000/
